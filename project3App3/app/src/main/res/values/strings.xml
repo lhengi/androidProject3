@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project3 App3</string>
+    <string-array name="Titles">
+        <item>Golden Gate Bridge</item>
+        <item>Alcatraz Island</item>
+        <item>Ferry Building Marketplace</item>
+        <item>Golden Gate Park</item>
+        <item>Cable Cars</item>
+        <item>Fisherman's Wharf</item>
+    </string-array>
+    <string-array name="Quotes">
+        <item>http://goldengatebridge.org/</item>
+        <item>https://www.nps.gov/alca/index.html</item>
+        <item>https://www.ferrybuildingmarketplace.com/</item>
+        <item>https://goldengatepark.com/</item>
+        <item>https://www.sfcablecar.com/</item>
+        <item>http://www.fishermanswharf.org/</item>
+    </string-array>
+</resources>
+
